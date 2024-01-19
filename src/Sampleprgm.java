@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Sampleprgm {
+class Sampleprgm
+{
+    public static void main(String args[])
+    {
+        System.out.println("Hello World");
+    }
 }
